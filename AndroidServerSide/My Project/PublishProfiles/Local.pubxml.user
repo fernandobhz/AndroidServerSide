@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>05/22/2013 06:26:27</publishTime>
+    </File>
+    <File Include="arc.aspx">
+      <publishTime>05/25/2013 13:02:32</publishTime>
+    </File>
+    <File Include="ass.aspx">
+      <publishTime>05/22/2013 06:31:49</publishTime>
+    </File>
+    <File Include="AssModel.edmx.diagram">
+      <publishTime>11/22/2013 13:34:24</publishTime>
+    </File>
+    <File Include="AssModel.edmx.sql">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/AndroidServerSide.dll">
+      <publishTime>11/22/2013 15:44:19</publishTime>
+    </File>
+    <File Include="bin/AndroidServerSide.xml">
+      <publishTime>11/22/2013 15:44:19</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>11/22/2013 12:56:50</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>05/25/2013 14:28:57</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>05/22/2013 06:26:27</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>11/22/2013 12:56:54</publishTime>
+    </File>
+    <File Include="received.aspx">
+      <publishTime>05/25/2013 13:56:17</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>05/22/2013 06:26:27</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>05/22/2013 06:26:27</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>05/22/2013 06:26:27</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>05/22/2013 06:26:27</publishTime>
+    </File>
+    <File Include="Styles/Site.css">
+      <publishTime>05/22/2013 06:26:27</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/22/2013 15:44:19</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

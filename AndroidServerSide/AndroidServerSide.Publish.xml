@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://leonidas.agoge.com.br/ass.agoge.com.br/" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="Administrator" savePWD="True" userPWD="xxxx" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="05/25/2013 13:13:45" />
+    <file relUrl="bin/AndroidServerSide.dll" publishTime="06/13/2013 14:19:29" />
+    <file relUrl="Site.Master" publishTime="05/22/2013 06:26:27" />
+    <file relUrl="Account/Web.config" publishTime="05/22/2013 06:26:27" />
+    <file relUrl="received.aspx" publishTime="05/25/2013 13:56:17" />
+    <file relUrl="Account/Register.aspx" publishTime="05/22/2013 06:26:27" />
+    <file relUrl="bin/AndroidServerSide.xml" publishTime="06/13/2013 14:19:29" />
+    <file relUrl="bin/AndroidServerSide.pdb" publishTime="06/13/2013 14:19:29" />
+    <file relUrl="arc.aspx" publishTime="05/25/2013 13:02:32" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="05/22/2013 06:26:27" />
+    <file relUrl="Account/Login.aspx" publishTime="05/22/2013 06:26:27" />
+    <file relUrl="Styles/Site.css" publishTime="05/22/2013 06:26:27" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="05/22/2013 06:26:27" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="05/22/2013 06:26:27" />
+    <file relUrl="Global.asax" publishTime="05/22/2013 06:26:27" />
+    <file relUrl="ass.aspx" publishTime="05/22/2013 06:31:49" />
+    <file relUrl="About.aspx" publishTime="05/22/2013 06:26:27" />
+    <file relUrl="Default.aspx" publishTime="05/25/2013 14:28:57" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="05/22/2013 06:26:27" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="05/22/2013 06:26:27" />
+  </publishProfile>
+</publishData>
